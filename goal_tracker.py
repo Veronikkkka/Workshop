@@ -24,8 +24,13 @@ def parse_input():
         pass
 
     elif command == 'get_complete':
-        # get_complete() -> 
+        # get_complete() -> dataframe with completed
+        pass
+    elif command == 'get_active':
+        # get_complete() -> dataframe with active
+        pass
     elif command == 'get_failed':
+        # get_complete() -> dataframe with failed
         pass
     elif command == 'exit':
         exit()
